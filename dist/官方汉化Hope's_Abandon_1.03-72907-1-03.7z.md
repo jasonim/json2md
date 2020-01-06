@@ -1,0 +1,12 @@
+
+title: 官方汉化Hope's Abandon 1.03-72907-1-03.7z
+date: Mon Jan 06 2020 17:47:56 GMT+0800 (CST)    
+categories: baidu
+---
+
+# 官方汉化Hope's Abandon 1.03-72907-1-03.7z
+size: 66.40 MB
+ 被弃绝的希望-Hope's Abandon9dmgame - Powered by Discuz!
+ 
+
+[How to download](https://bpcam.bemobtrk.com/go/2ceec3aa-1ca2-46d6-b9ff-aaa5c184517c?jno=196)
