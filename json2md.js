@@ -12,10 +12,11 @@ function parseContent(content, num) {
     let title = item.title;
     let urlPath = slugify(title, {
       replacement: "_",
-      remove: /[*+~.()'"!:@【】]/g, // regex to remove characters
+      remove: /[*+~.()'"!:@]/g, // regex to remove characters
       lower: true // result in lower case
     });
     urlPath = urlPath.replace(/[\u4e00-\u9fa5]/g, "");
+    urlPath = urlPath.replace(/\[|]/g, "");
     let outputFile = path.join(
       __dirname,
       "dist/" + urlPath
